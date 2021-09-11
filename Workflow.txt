@@ -1,0 +1,14 @@
+# __WHY NOT THIS:__
+# PyQt - GPL licence - for non-commercial purposes only
+# PySide(Qt), Pyside2 (Qt) - LGPL Licence - can be used in commercial applications
+# Tkinter - poor appearence and poor functionality
+# PyGTK(GTK+) - strange interface on windows. Espencially diolog windows and working with files
+
+# __WHY wxPython__
+# wxPython(wxWingets) - cross platform GUI labrary
+# Uses the operation system shell. Uses the API of the operation system on whitch it runs . looks good
+# Written in C++
+# Small size of the executable file and many widgets
+
+# (for Windows and macOS) pip install -U wxPython
+# (show version) pip show wxPython
